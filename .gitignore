@@ -1,0 +1,6 @@
+.gradle
+.idea
+build
+*.iml
+*.txt
+!expected/*.txt
